@@ -48,6 +48,7 @@ Component Cohesion Principles 元件內聚性原則
 
 - 三者關係圖
 ![](https://i.imgur.com/EaB5yX2.png)
+
 [圖片來源](https://medium.com/@f40507777/%E5%85%83%E4%BB%B6%E5%85%A7%E8%81%9A%E6%80%A7-1a1c334fc3f7)
 
 Component Coupling 元件耦合性
@@ -66,7 +67,9 @@ Component Coupling 元件耦合性
 
 Architecture 架構
 ---
-為了「開發」「部署」「運行」「維護」的目的
+* 軟體架構的目的是最小化建置與維護「需求系統」所需要的人力資源。
+* The goal of sofrware architecture is to minimize the human resources required to build and maintain the required system.
+* 為了「開發」「部署」「運行」「維護」的目的
 
 Clean Architecture 整潔的架構
 ---
@@ -79,6 +82,7 @@ Clean Architecture 整潔的架構
     * Nothing in an inner circle can know anything at all about something in an outer circle.
 
 ![](https://i.imgur.com/ggI3lom.jpg)
+
 [圖片來源](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 
