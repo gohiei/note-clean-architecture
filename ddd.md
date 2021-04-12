@@ -12,6 +12,8 @@
   * 軟體架構的定義與目的
   * 簡潔架構三原則: 分層、相依性、跨層
 
+* 參考書籍
+
 ## 領域驅動設計
 
 * 何謂 Domain
@@ -758,3 +760,9 @@ src/
 ├── kanban.iml
 └── pom.xml
 ```
+
+## 參考書籍
+
+* [Clean Architecture (Martin/Unicle Bob)](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?crid=Y0BWFNN1YTF3&keywords=clean+architecture&qid=1571383127&s=books&sprefix=clean+ar%2Cstripbooks-intl-ship%2C309&sr=1-1)
+* [Implementing Domain-Driven Design (Vaughn)](https://www.amazon.com/-/zh_TW/dp/B00BCLEBN8/ref=sr_1_3?crid=2RGMP787ZO42W&dchild=1&keywords=domain-driven+design&qid=1617954050&s=books&sprefix=Domain-%2Cstripbooks-intl-ship%2C347&sr=1-3)
+* [Domain-Driven Design (Eric Evans)](https://www.amazon.com/-/zh_TW/dp/0321125215/ref=sr_1_1?dchild=1&keywords=domain-driven+design&qid=1617954228&s=books&sr=1-1)
